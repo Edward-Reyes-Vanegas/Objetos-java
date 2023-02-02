@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="gitlab.cdc.java.util.args" type="repository">
+    <properties maven-id="com.gitlab.cdc-java.util:cdc-util-args:0.0.11.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-args-0.0.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-core-0.0.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-data-0.0.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-xml-0.0.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-args-0.0.11.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-core-0.0.11.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-data-0.0.11.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-xml-0.0.11.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-args-0.0.11.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-core-0.0.11.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-data-0.0.11.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cdc-util-xml-0.0.11.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
